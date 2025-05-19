@@ -32,7 +32,7 @@ This application doesn't require any build tools or package installations. Simpl
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/year-calculator.git
+git clone https://github.com/raselahmedweb/year-calculator.git
 
 # Navigate to project directory
 cd year-calculator
