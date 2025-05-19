@@ -32,9 +32,9 @@ This application doesn't require any build tools or package installations. Simpl
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/date-calculator.git
+git clone https://github.com/your-username/year-calculator.git
 
 # Navigate to project directory
-cd date-calculator
+cd year-calculator
 
 # Open in browser (or just double-click index.html)
